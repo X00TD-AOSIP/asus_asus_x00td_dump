@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Sat Feb 16 11:49:40 CST 2019
+ro.bootimage.build.date.utc=1550288980
+ro.bootimage.build.fingerprint=Android/sdm660_64/sdm660_64:8.1.0/OPM1/15.2016.1902.340-20190216:user/release-keys
+persist.sys.usb.config=none
